@@ -1,9 +1,9 @@
 {
-  "name": "Nogame feed extension",
-  "title": "Nogame feed extension",
+  "name": "nogamepl-feed-extension",
+  "title": "Nogame.pl feed extension",
   "id": "jid1-KLIXfgCjsftmlw",
-  "description": "Nogame feed extension addon",
+  "description": "Nogame.pl feed extension addon",
   "author": "antharres",
-  "license": "MPL 2.0",
+  "license": "GNU GPLv2",
   "version": "0.1"
 }
