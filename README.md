@@ -1,0 +1,1 @@
+# nogame-feed-firefox-ext
